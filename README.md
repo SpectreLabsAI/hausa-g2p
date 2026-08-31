@@ -1,5 +1,7 @@
 # hausa-g2p
 
+[![tests](https://github.com/SpectreLabsAI/hausa-g2p/actions/workflows/tests.yml/badge.svg)](https://github.com/SpectreLabsAI/hausa-g2p/actions/workflows/tests.yml)
+
 **Rule-based Hausa Boko → segmental IPA. No ML, no dependencies — a pure Python rule table and a keep-list text normaliser.**
 
 > ## ✅ Reviewed and approved by a Kano native speaker — 31 August 2026
