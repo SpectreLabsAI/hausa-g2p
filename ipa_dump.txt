@@ -1,0 +1,123 @@
+Sentence WAV | transcript | G2P IPA (APPROVED — Abdool, Kano, 31 Aug 2026)
+======================================================================
+
+--- 001.wav [hooked] ---
+  text: Ƙasar Kano tana da tarihi mai tsawo.
+  IPA : /kʼasaɾ kano tana da taɾihi mai̯ tsʼawo./
+
+--- 002.wav [hooked] ---
+  text: Ɗalibai za su je makaranta da ƙarfe bakwai.
+  IPA : /ɗalibai̯ za su dʒe makaɾanta da kʼaɾfe bakʷai̯./
+
+--- 003.wav [hooked] ---
+  text: Muna buƙatar ƙarin lokaci kafin mu gama aikin.
+  IPA : /muna bukʼataɾ kʼaɾin lokatʃi kafin mu ɡama ai̯kin./
+
+--- 004.wav [hooked] ---
+  text: Ku ɗan jira, zan dawo ba da daɗewa ba.
+  IPA : /ku ɗan dʒiɾa, zan dawo ba da daɗewa ba./
+
+--- 005.wav [glottal] ---
+  text: 'Yan makaranta suna koyon lissafi.
+  IPA : /ʔjan makaɾanta suna kojon lissafi./
+
+--- 006.wav [glottal] ---
+  text: 'Ya'yan itace suna da amfani ga lafiya.
+  IPA : /ʔjaʔjan itatʃe suna da amfani ɡa lafija./
+
+--- 007.wav [glottal] ---
+  text: 'Ƴa'ƴa mata suna wasa a farfajiya.
+  IPA : /ʔjaʔja mata suna wasa a faɾfadʒija./
+
+--- 008.wav [glottal] ---
+  text: 'Yan kasuwa sun tashi da sassafe.
+  IPA : /ʔjan kasuwa sun taʃi da sassafe./
+
+--- 009.wav [codeswitch] ---
+  text: Ka je class ɗin ka da ƙarfe takwas.
+  IPA : /ka dʒe tʃlass ɗin ka da kʼaɾfe takʷas./
+
+--- 010.wav [codeswitch] ---
+  text: Teacher ɗin mu ya ce mu yi submitting assignments din mu gobe.
+  IPA : /teatʃheɾ ɗin mu ja tʃe mu ji submittinɡ assiɡnmentsʼ din mu ɡobe./
+
+--- 011.wav [codeswitch] ---
+  text: Ina buƙatar network mai ƙarfi kafin in yi downloading.
+  IPA : /ina bukʼataɾ netwoɾk mai̯ kʼaɾfi kafin in ji downloadinɡ./
+
+--- 012.wav [codeswitch] ---
+  text: Bank ɗin sun ce account ɗin ka yana aiki.
+  IPA : /bank ɗin sun tʃe atʃtʃount ɗin ka jana ai̯ki./
+
+--- 013.wav [codeswitch] ---
+  text: Muna da exam ranar Litinin, ku shirya.
+  IPA : /muna da eam ɾanaɾ litinin, ku ʃiɾja./
+
+--- 014.wav [codeswitch] ---
+  text: Ka duba WhatsApp, na aiko maka da message.
+  IPA : /ka duba whatsʼapp, na ai̯ko maka da messaɡe./
+
+--- 015.wav [digits] ---
+  text: Naira dubu biyar ne farashin littafin.
+  IPA : /nai̯ɾa dubu bijaɾ ne faɾaʃin littafin./
+
+--- 016.wav [digits] ---
+  text: Ka biya naira ɗari uku da hamsin.
+  IPA : /ka bija nai̯ɾa ɗaɾi uku da hamsin./
+
+--- 017.wav [digits] ---
+  text: Kuɗin makaranta naira dubu ashirin ne a kowane wata.
+  IPA : /kuɗin makaɾanta nai̯ɾa dubu aʃiɾin ne a kowane wata./
+
+--- 018.wav [digits] ---
+  text: Lambar wayata ita ce sifili takwas uku shida biyar huɗu biyu ɗaya bakwai tara.
+  IPA : /lambaɾ wajata ita tʃe sifili takʷas uku ʃida bijaɾ huɗu biju ɗaja bakʷai̯ taɾa./
+
+--- 019.wav [digits] ---
+  text: Lambar asusuna ita ce sifili biyu ɗaya tara shida uku bakwai huɗu biyar takwas.
+  IPA : /lambaɾ asusuna ita tʃe sifili biju ɗaja taɾa ʃida uku bakʷai̯ huɗu bijaɾ takʷas./
+
+--- 020.wav [education] ---
+  text: Malam yana koyar da lissafi a aji uku.
+  IPA : /malam jana kojaɾ da lissafi a adʒi uku./
+
+--- 021.wav [education] ---
+  text: Jarabawa za ta fara ranar Litinin.
+  IPA : /dʒaɾabawa za ta faɾa ɾanaɾ litinin./
+
+--- 022.wav [education] ---
+  text: Ku buɗe littafi, shafi na goma sha biyu.
+  IPA : /ku buɗe littafi, ʃafi na ɡoma ʃa biju./
+
+--- 023.wav [education] ---
+  text: Wannan darasi yana da wuya, amma za mu iya.
+  IPA : /wannan daɾasi jana da wuja, amma za mu ija./
+
+--- 024.wav [kano] ---
+  text: Kasuwar Kurmi tana cikin birnin Kano.
+  IPA : /kasuwaɾ kuɾmi tana tʃikin biɾnin kano./
+
+--- 025.wav [kano] ---
+  text: Za mu je Sabon Gari da safe.
+  IPA : /za mu dʒe sabon ɡaɾi da safe./
+
+--- 026.wav [kano] ---
+  text: Dutsen Dala yana da tsawo ƙwarai.
+  IPA : /dutsʼen dala jana da tsʼawo kʷʼaɾai̯./
+
+--- 027.wav [kano] ---
+  text: Gidan Rumfa yana da tarihi mai daɗi.
+  IPA : /ɡidan ɾumfa jana da taɾihi mai̯ daɗi./
+
+--- 028.wav [kano] ---
+  text: Mutanen Fagge sun fita zuwa Gwale.
+  IPA : /mutanen faɡɡe sun fita zuwa ɡʷale./
+
+--- 029.wav [prosody] ---
+  text: Yaya kake ji game da darasin yau?
+  IPA : /jaja kake dʒi ɡame da daɾasin jau̯?/
+
+--- 030.wav [prosody] ---
+  text: Ka zo nan yanzu, kada ka jinkirta!
+  IPA : /ka zo nan janzu, kada ka dʒinkiɾta!/
+
