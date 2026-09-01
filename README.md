@@ -115,6 +115,23 @@ most valuable contributions. Open an issue with the word, the pronunciation
 you hear, and (if possible) a recording. Changes to the table require
 native-speaker review; that bar is what makes this artifact trustworthy.
 
+One practice note that generalises beyond this project: **read the artifact,
+not the description of it.** Every substantive error caught while building
+this tool came from opening the thing itself rather than trusting its
+metadata — and they fell into three failure modes:
+
+- **Wrong metadata**: a third-party repo named as WAXAL Hausa TTS held 31,925
+  rows of something else entirely; a model ID and a provider catalog name
+  that didn't match the real ones
+- **Absent content**: a model repo with config and card but no weights; a
+  tokenizer vocab silently missing the phonemes `p q v x`
+- **Encoding mismatch**: glottal stops written as ASCII apostrophes where a
+  normaliser expected only typographic ones
+
+Different symptoms, same fix — the row count, the `vocab.json`, the LICENSE
+file, the file listing. If a claim about an artifact matters to your
+pipeline, verify it against the artifact.
+
 ## Licence
 
 Apache-2.0. Part of the Turaco project by Spectre Labs.
